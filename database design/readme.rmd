@@ -1,0 +1,1 @@
+This folder will contain class works and project done in oracle SQL.
