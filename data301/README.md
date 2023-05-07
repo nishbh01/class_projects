@@ -1,1 +1,1 @@
-This repo contains the Jupyter Notebook and final research paper completed for group project of Data Visualization 301.
+This repo contains the Jupyter Notebook and final research paper completed for group project of Data Visualization 301.The group project was done by Zainab Makhdum, Virginia Ferreras, and Nischal Bhandari.
