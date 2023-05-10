@@ -1,0 +1,12 @@
+this is a sample file for git. Some commands are:
+git init ---> initialize the git.
+• git config --global user.email “ash@ramapo.edu” 
+• git config --global user.name “ash” 
+– for just current directory omit –global 
+• git config --global color.ui auto 
+git status 
+git add filename
+
+git commit -m "blah bhal"
+git log
+
